@@ -1,0 +1,57 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>所有文章 - 岱的博客</title>
+        <link>http://chenjidai.github.io/posts/</link>
+        <description>所有文章 | 岱的博客</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>chenjidai@aircas.ac.cn (岱)</managingEditor>
+            <webMaster>chenjidai@aircas.ac.cn (岱)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Fri, 22 Oct 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://chenjidai.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>cartopy笔记</title>
+    <link>http://chenjidai.github.io/cartopy%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
+    <pubDate>Fri, 22 Oct 2021 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>http://chenjidai.github.io/cartopy%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</guid>
+    <description><![CDATA[简介 常用的地图可视化的编程工具有 MATLAB、IDL、GrADS、GMT、NCL 等。而python环境下常用的地图包有Basemap、Car]]></description>
+</item><item>
+    <title>中国区划数据下载</title>
+    <link>http://chenjidai.github.io/%E4%B8%AD%E5%9B%BD%E5%8C%BA%E5%88%92%E6%95%B0%E6%8D%AE%E4%B8%8B%E8%BD%BD/</link>
+    <pubDate>Fri, 22 Oct 2021 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>http://chenjidai.github.io/%E4%B8%AD%E5%9B%BD%E5%8C%BA%E5%88%92%E6%95%B0%E6%8D%AE%E4%B8%8B%E8%BD%BD/</guid>
+    <description><![CDATA[县以上行政区划代码 国家民政局网站发布 数据格式： ​ 按照省（自治区、直辖市、特别行政区）、地级市（地区、自治州、盟）、县（市辖区、县级市、自治县]]></description>
+</item><item>
+    <title>机器学习公开课笔记一</title>
+    <link>http://chenjidai.github.io/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%AC%E5%BC%80%E8%AF%BE%E7%AC%94%E8%AE%B0%E4%B8%80/</link>
+    <pubDate>Fri, 22 Oct 2021 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>http://chenjidai.github.io/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%AC%E5%BC%80%E8%AF%BE%E7%AC%94%E8%AE%B0%E4%B8%80/</guid>
+    <description><![CDATA[一、什么是机器学习(what is machine learning?) 1.1 机器学习定义 主要有两种定义： Arthur Samuel (1959). Machine Learning: Field of study that gives computers the ability to learn without being explicitly programmed. Tom Mitchell (1998) Well-posed Learning Problem: A computer program is said to learn from experience E with respect to]]></description>
+</item><item>
+    <title>何处这一生</title>
+    <link>http://chenjidai.github.io/%E4%BD%95%E5%A4%84%E8%BF%99%E4%B8%80%E7%94%9F/</link>
+    <pubDate>Wed, 28 Nov 2018 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>http://chenjidai.github.io/%E4%BD%95%E5%A4%84%E8%BF%99%E4%B8%80%E7%94%9F/</guid>
+    <description><![CDATA[何处这一生 画了一幅画， 画中，有你看不见的温柔的风 也有你一眼望见的身影， 那刻，很美 北疆的温度，随着夜晚的灯，变得体贴又柔软 遂，写了一段情 情中，]]></description>
+</item><item>
+    <title>很想告诉你</title>
+    <link>http://chenjidai.github.io/%E5%BE%88%E6%83%B3%E5%91%8A%E8%AF%89%E4%BD%A0/</link>
+    <pubDate>Thu, 17 May 2018 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>http://chenjidai.github.io/%E5%BE%88%E6%83%B3%E5%91%8A%E8%AF%89%E4%BD%A0/</guid>
+    <description><![CDATA[很想告诉你 很想告诉你 现在的每一天 都很有意义 无论是刮风还是下雨 浓烈心中的情意 很想告诉你 现在的每一刻 都像是瘟疫 想你入迷却之不及 摇曳心中的思绪 很想]]></description>
+</item><item>
+    <title>牵着你的手</title>
+    <link>http://chenjidai.github.io/%E6%98%A5%E9%A3%8E%E7%BB%86%E7%BB%86/</link>
+    <pubDate>Fri, 04 May 2018 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>http://chenjidai.github.io/%E6%98%A5%E9%A3%8E%E7%BB%86%E7%BB%86/</guid>
+    <description><![CDATA[牵着你的手 春风细细， 诉说秘密， 谁在偷偷想你 谁又淹没在这寂寥的夜 无聊在这空荡的图书馆里 时间，时间 is too long for me 春雨很温柔 轻轻落在油纸伞上 此时正好契]]></description>
+</item><item>
+    <title>你的银杏叶</title>
+    <link>http://chenjidai.github.io/%E4%BD%A0%E7%9A%84%E9%93%B6%E6%9D%8F%E5%8F%B6/</link>
+    <pubDate>Thu, 02 Nov 2017 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>http://chenjidai.github.io/%E4%BD%A0%E7%9A%84%E9%93%B6%E6%9D%8F%E5%8F%B6/</guid>
+    <description><![CDATA[你的银杏叶黄了，黄了一地 一年，秋天，银杏落 落，落满地 不知那时的你，在哪里 也许，就在这里 扇形叶，叉状脉 画在阳光灿烂的街头 写在黄叶铺满的小路 再蘸]]></description>
+</item></channel>
+</rss>

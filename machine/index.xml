@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machines on 岱的博客</title>
+    <link>http://chenjidai.github.io/machine/</link>
+    <description>Recent content in Machines on 岱的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>chenjidai@aircas.ac.cn (岱)</managingEditor>
+    <webMaster>chenjidai@aircas.ac.cn (岱)</webMaster>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Fri, 22 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://chenjidai.github.io/machine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>机器学习公开课笔记一</title>
+      <link>http://chenjidai.github.io/machine/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%AC%E5%BC%80%E8%AF%BE%E7%AC%94%E8%AE%B0%E4%B8%80/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <author>chenjidai@aircas.ac.cn (岱)</author>
+      <guid>http://chenjidai.github.io/machine/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%85%AC%E5%BC%80%E8%AF%BE%E7%AC%94%E8%AE%B0%E4%B8%80/</guid>
+      <description>一、什么是机器学习(what is machine learning?) 1.1 机器学习定义 主要有两种定义： Arthur Samuel (1959). Machine Learning: Field of study that gives computers the ability to learn without being explicitly programmed. Tom Mitchell (1998) Well-posed Learning Problem: A computer program is said to learn from experience E with respect to</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on 岱的博客</title>
+    <link>http://chenjidai.github.io/about/</link>
+    <description>Recent content in Abouts on 岱的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <managingEditor>chenjidai@aircas.ac.cn (岱)</managingEditor>
+    <webMaster>chenjidai@aircas.ac.cn (岱)</webMaster>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Fri, 22 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://chenjidai.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于我</title>
+      <link>http://chenjidai.github.io/about/about/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      <author>chenjidai@aircas.ac.cn (岱)</author>
+      <guid>http://chenjidai.github.io/about/about/</guid>
+      <description>个人简介 一个简单的，为了梦想，努力前行的漂泊者。 中国科学院空天信息创新研究院在读博士，专业是地图学与地理信息系统，从事植被定量遥感方面的研究</description>
+    </item>
+    
+  </channel>
+</rss>
